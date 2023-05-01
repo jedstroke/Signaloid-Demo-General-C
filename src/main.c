@@ -4,6 +4,8 @@
 int
 main(int argc, char *  argv[])
 {
+	printf("Hello World! Jed was here.");
+
 	double	a, b, c;
 
 	a = libUncertainDoubleUniformDist(0.5, 1.0);
